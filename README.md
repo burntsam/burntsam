@@ -1,0 +1,2 @@
+# burntsam
+mining btc
